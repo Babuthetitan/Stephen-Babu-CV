@@ -1,10 +1,10 @@
 <img src="https://avatars.githubusercontent.com/u/105855282?v=4" style="border: 15px;">
 Hey there this is a repo that contains my CV, feel free to check it out and feel free to connect with me and we can laugh/learn about all things audio. cheers
-[Stephen Babu CV.pdf](https://github.com/Babuthetitan/Stephen-Babu-CV/files/11044394/Stephen.Babu.CV.pdf)
+
 
 ### Hi I'm Steve👋
 I am recent audio production and music technology graduate looking for opportunities and collabaration in projects related to game audio and audio programming.
-- 🔭 I’m currently working on an indie game as the project lead & technical sound designer (I am also brushing up my C++ skills regularly).
+- 🔭 I’m currently working on an indie game as the project lead & technical sound designer (I am also brushing up my C++ & C# skills regularly).
 - 🌱 I’m currently learning audiokinnetic Wwise in and out developing tools and skills.
 - 🤝 I’m looking to collaborate on more audio programming related ventures. 
 
